@@ -1,2 +1,4 @@
 working on local repo
 try the second method
+try to clone from remote
+modify and push to staging
